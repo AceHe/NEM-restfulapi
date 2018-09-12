@@ -33,9 +33,9 @@ NEM-restfulapi/
    |       ├──setup.js
    |       │
    |       └──user.js
-   ├──node_modules/              * 依赖环境安装后生成
+   ├──node_modules/              * 依赖环境安装后生成(npm install后自动生成)
    ├──config.js                  * 一些配置
-   ├──package.json               * 项目依赖环境(初始化后自动生成)
+   ├──package.json               * 项目依赖环境
    └──server.js                  * 项目启动文件
 ```
 
