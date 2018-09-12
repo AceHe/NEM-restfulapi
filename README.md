@@ -38,3 +38,10 @@ server.js                  //项目启动文件
 ```
     node server.js
 ```
+
+### 知识补充
+> restful风格：就是使用同一个接口，通过不同的请求方式例如post，get，put，delete等实现数据的增删查改等
+
+[RESTful 架构详解](https://www.runoob.com/w3cnote/restful-architecture.html)
+
+[设计一个良好的restful风格API](https://blog.csdn.net/shog808/article/details/79932968)
